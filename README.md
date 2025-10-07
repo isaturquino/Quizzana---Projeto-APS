@@ -22,8 +22,10 @@ Você pode visualizar o protótipo completo do projeto no Figma através do link
 ## 📄 Casos de Uso
 
 O diagrama de casos de uso foi elaborado na ferramenta **draw.io** e está disponível neste repositório:
+![Diagrama de Casos de Uso](./documents/diagrama-de-casos-de-uso.drawio.png)
 
-📁 [`documentos/diagrama-casos-de-uso.drawio`](./documents/diagrama%20de%20casos%20de%20uso.drawio?raw=true)
+
+📁 [`documentos/diagrama-casos-de-uso.drawio`](https://drive.google.com/file/d/10h2anWj4GtgzVgSXHaBNBKM1DndSPftN/view?usp=sharing)
 
 ---
 
